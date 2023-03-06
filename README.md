@@ -9,8 +9,8 @@ Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_118.apk)👈
 ```bash
 $ cd
-$ pkg update && pkg upgrade
-$ pkg install python git
+$ apt update && pkg upgrade
+$ apt install python git
 $ pip install -r requiremenst.txt
 $ pip install --upgrade pip
 $ git clone https://github.com/Al-Vino/cracking9
